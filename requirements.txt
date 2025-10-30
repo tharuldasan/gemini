@@ -1,0 +1,5 @@
+Flask
+soundfile
+numpy
+google-genai
+python-dotenv
