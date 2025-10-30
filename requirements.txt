@@ -1,5 +1,5 @@
 Flask
 soundfile
 numpy
-google-genai
 python-dotenv
+google-genai==0.3.0
